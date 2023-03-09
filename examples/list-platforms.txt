@@ -1,0 +1,8 @@
+ENV: text-embedding-ada-002-v2
+PROMPT: What platforms do I have?
+RESPONSE:
+
+All Platforms, Desktop, Publish Web, Web, iOS, Android.
+
+----
+Analysis: Correct!

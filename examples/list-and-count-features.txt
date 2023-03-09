@@ -1,0 +1,48 @@
+ENV: text-embedding-ada-002-v2
+PROMPT: List all features and count them
+RESPONSE:
+
+Features: 
+1. Whiteboard 
+2. Advanced commands 
+3. Whiteboard___Tool 
+4. Keyboard shortcuts 
+5. term___alias 
+6. Global config.edn 
+7. Whiteboard/Context Menu 
+8. Export 
+9. Copy and Paste 
+10. Whiteboard/Action Bar 
+11. Query 
+12. Plugins 
+13. Advanced Queries 
+14. Tags 
+15. Queries 
+16. Custom theme 
+17. Property 
+18. Zotero 
+19. Platform 
+20. Commands 
+21. PDF highlights 
+22. Whiteboard/Toolbar 
+23. UI Element 
+24. Cloze 
+25. Whiteboard/Context Menu 
+26. Unlinked References 
+27. Tasks 
+28. Tags 
+29. Custom theme 
+30. Zotero 
+31. Youtube timestamp 
+32. Block Reference 
+33. All Platforms 
+34. Search 
+35. iOS 
+36. Whiteboard___Object 
+37. custom.js 
+38. ClojureScript Eval in a Block 
+39. Un
+
+
+---
+Analysis: Gets about 80% of them. See `bb query features` for full list

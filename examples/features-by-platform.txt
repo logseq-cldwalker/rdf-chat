@@ -1,0 +1,27 @@
+ENV: text-embedding-ada-002-v2
+PROMPT: List features that are only on desktop platform, sort alphabetically
+RESPONSE:
+
+Advanced commands
+Assets alias
+Copy and Paste
+Custom theme
+Export
+Filename format
+Find in page
+Global configuration
+Knowledge Graph
+Local Http server
+Page and block references
+Plugins
+Query table
+Tags
+Tasks
+User configuration
+Whiteboard
+
+---
+Analysis:
+
+A little over 50% correct. Results can vary wildly between 50-80% correct depending on the prompt.
+To see correct results run `bb query features |grep Desktop`

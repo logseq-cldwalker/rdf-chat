@@ -1,0 +1,30 @@
+ENV: text-embedding-ada-002-v2
+PROMPT: What features are about graphs?
+RESPONSE:
+
+Page graph and Knowledge Graph.
+
+---
+Analysis: Correct!
+
+===
+ENV: text-embedding-ada-002-v2
+PROMPT: What features are about config?
+RESPONSE:
+
+Global config.edn, config.edn, Global configuration, User configuration, plugins.edn, custom.js, custom.css, Global config.edn.
+
+---
+Analysis: Mostly correct though it took a guess at features that ended with {.js,.css,.edn}
+
+
+===
+
+ENV: text-embedding-ada-002-v2
+PROMPT: What features contain 'config'?
+RESPONSE:
+
+The features that contain 'config' are Global config.edn, config.edn, Global configuration, and User configuration.
+
+---
+Analysis: Correct!
